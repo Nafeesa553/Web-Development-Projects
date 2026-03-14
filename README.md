@@ -1,5 +1,5 @@
 # Web-Development-Projects
-##Project1 - Temperature Converter
+## PROJECT - 1 : Temperature Converter
 Temperature Converter
 1. Add the Temperature in Celsius and Press Enter or Convert button to convert celsius temperature to Fahrenheit.
 2. `.addEventListener` is used to handle onclick event.
