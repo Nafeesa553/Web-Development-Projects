@@ -11,4 +11,4 @@ Age Calculator
 1. Enter the Date of Birth details and the age calculator will calculate your exact age.
 2. current date is obtained using Date object.
 3. `.getFullYear()` returns the year from Date object which is used to calculate the age.
-
+<img width="745" height="611" alt="Image" src="https://github.com/user-attachments/assets/3046264c-5c39-4ee2-835d-0b6fa8fe2311" />
