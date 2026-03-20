@@ -19,3 +19,9 @@ My Bookmarks
 2. Each Bookmark has an Edit and Delete option. Users can update the URL using a prompt dialog and can remove Bookmark using Delete option.
 3. Uses Localstorage `localStorage.setItem()` to store Bookmarks. Data remains even after refreshing or reopening the browser.
 <img width="1601" height="697" alt="Image" src="https://github.com/user-attachments/assets/ae2a0a4a-44d2-4c9e-bf2a-3e8665b30379" />
+
+## PROJECT - 4 : Quidditch-Quiz
+1. A dynamic Quiz Application fetches real-time questions from an external API.
+2. Randomized Questions and shuffled answer options.
+3. Answer selection with instant feedback. Tracks score and displays at the end of the quiz 
+<img width="973" height="877" alt="Image" src="https://github.com/user-attachments/assets/602d7805-2a3c-4589-9d76-8da047b357e7" />
